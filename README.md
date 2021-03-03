@@ -1,1 +1,1 @@
-# CEC-progams
+# CEC-programs
